@@ -1,0 +1,10 @@
+Network Growth and Decay
+
+Based on Preferential Attachment model 
+(Copyright 2005 Uri Wilensky. All rights reserved.
+Permission to use, modify or redistribute this model is hereby granted, provided that both of the following requirements are followed: a) this copyright notice is included. b) this model will not be redistributed for profit without permission from Uri Wilensky. Contact Uri Wilensky for appropriate licenses for redistribution for profit.)
+
+This model also includes orignal functions for "Decay" of network. 
+
+Using this model requires http://ccl.northwestern.edu/netlogo/
+
